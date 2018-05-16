@@ -1,0 +1,13 @@
+<resources>
+  <dimen name="underline_stroke_width">2dp</dimen>
+  <dimen name="underline_width">20dp</dimen>
+  <dimen name="section_reduction">2.0dip</dimen>
+  <dimen name="text_size">15.0dip</dimen>
+  <dimen name="text_size_2">28.0dip</dimen>
+  <dimen name="hint_size">15.0dip</dimen>
+  <dimen name="hint_small_size">12.0dip</dimen>
+  <dimen name="text_margin_bottom">5dp</dimen>
+  <dimen name="hint_margin_bottom">3dp</dimen>
+  <dimen name="view_height">31dp</dimen>
+  <dimen name="circle_radius">5dp</dimen>
+</resources>

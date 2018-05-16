@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="core_area">
+        <attr name="underline_color" format="color" />
+        <attr name="underline_width" format="dimension" />
+        <attr name="text_size" format="float" />
+        <attr name="text_margin_bottom" format="dimension" />
+        <attr name="underline_selected_color" format="color" />
+        <attr name="hint_color" format="color" />
+        <attr name="text_color" format="color" />
+        <attr name="previous_color" format="color" />
+        <attr name="input_type" format="string" />
+        <attr name="hint_text" format="string" />
+        <attr name="codes" format="integer" />
+        <attr name="auto_complete" format="boolean" />
+        <attr name="line" format="boolean" />
+        <attr name="underline_stroke_width" format="dimension" />
+        <attr name="circle_radius" format="dimension" />
+    </declare-styleable>
+
+
+</resources>
